@@ -15,6 +15,17 @@ Object detection is a crucial task in computer vision with applications across v
 - **Sample Outputs and Visualization:** Visualize sample outputs with detected objects and bounding boxes, allowing for easy assessment of model accuracy.
 - **Easy Installation:** Simple installation process with clear instructions, making it accessible to both beginners and experienced users.
 
+## Usage
+
+To use the project:
+
+1. **Prepare your dataset:** Follow the guidelines provided in the documentation to prepare your dataset.
+2. **Configure the model:** Customize the EfficientDet model according to your dataset characteristics and requirements.
+3. **Train the model:** Use the provided training script to train the model on your dataset, monitoring performance using TensorBoard.
+4. **Evaluate the model:** Assess the performance of the trained model on a separate validation set using standard evaluation metrics.
+5. **Visualize outputs:** Visualize sample outputs to inspect detected objects and evaluate model accuracy.
+
+
 ## Installation
 
 To install and set up the project, follow these steps:
