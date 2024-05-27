@@ -25,5 +25,8 @@ To use the project:
 4. **Evaluate the model:** Assess the performance of the trained model on a separate validation set using standard evaluation metrics.
 5. **Visualize outputs:** Visualize sample outputs to inspect detected objects and evaluate model accuracy.
 
+## Acknowledgements
 
+- This project builds upon the research contributions of the Google Research team in developing the EfficientDet model.
+- We acknowledge the invaluable support of the open-source community and the developers of libraries and datasets that have facilitated advancements in object detection research.
 
