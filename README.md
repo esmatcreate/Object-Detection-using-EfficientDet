@@ -26,10 +26,4 @@ To use the project:
 5. **Visualize outputs:** Visualize sample outputs to inspect detected objects and evaluate model accuracy.
 
 
-## Installation
 
-To install and set up the project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/object-detection-efficientdet.git
