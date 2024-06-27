@@ -2,10 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Overview
-
-Object detection is a crucial task in computer vision with applications across various industries. This project focuses on implementing object detection using the EfficientDet model, developed by Google. EfficientDet is renowned for its exceptional balance between accuracy and efficiency, making it an ideal choice for real-world applications.
-
 
 # Object Detection using EfficientDet
 
