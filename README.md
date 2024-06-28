@@ -49,7 +49,7 @@ Visit the COCO dataset download page.
 - **Hardware Constraints:** Adjusted training parameters to fit within the constraints of a standard laptop, ensuring that the model could be trained and evaluated without requiring high-end hardware.
 
 5. ### Outcomes:
-- **High Accuracy:**High accuracy in detecting objects using the COCO dataset. The EfficientDet model proved to be effective in handling diverse and complex images.
+- **High Accuracy:** High accuracy in detecting objects using the COCO dataset. The EfficientDet model proved to be effective in handling diverse and complex images.
 - **Efficiency:** Model could be trained and evaluated efficiently on a standard laptop. This achievement highlights the model's scalability and practicality for real-world applications where computational resources may be limited.
 - **Versatility:** The project showcased the versatility of the EfficientDet model in real-world scenarios, making it a valuable tool for various industries.
 
