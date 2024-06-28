@@ -29,7 +29,7 @@ This section provides insights into the project's goals, processes, and outcomes
 
 ### Process:
 1. ### Data Collection and Labeling
-- **Dataset::**  Utilized the COCO dataset, which includes a wide variety of images with detailed annotations for object detection. This dataset was chosen due to its comprehensive nature and relevance to real-world applications.The COCO dataset can be downloaded from the COCO dataset website.
+- **Dataset:**  Utilized the COCO dataset, which includes a wide variety of images with detailed annotations for object detection. This dataset was chosen due to its comprehensive nature and relevance to real-world applications.The COCO dataset can be downloaded from the COCO dataset website.
 - Follow these steps to download the necessary files:
 
 Visit the COCO dataset download page.
